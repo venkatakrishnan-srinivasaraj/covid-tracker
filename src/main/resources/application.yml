@@ -4,6 +4,6 @@ server:
 covid:
   tracking:
     api:
-      baseurl: https://covidtracking.com/api/v1
+      baseUrl: https://covidtracking.com/api/v1
       state: /states/{state}/current.json
       us: /us/current.json
